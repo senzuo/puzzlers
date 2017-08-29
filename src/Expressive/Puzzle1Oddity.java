@@ -9,7 +9,7 @@ package Expressive;
  * Java remainder %
  * a % b = a - ( a / b) * b  (b != 0)
  */
-public class Oddity {
+public class Puzzle1Oddity {
     public static boolean isOdd(int i) {
 //        return i % 2 == 1;
 //        return i % 2 != 0;
